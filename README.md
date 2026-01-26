@@ -1,6 +1,12 @@
 # EXT-GooglePhotos
 -- Extented for `MMM-GoogleAssistant` --
 
+In end 2024, bougsounet (that created all the EXT modules for MagicMirror) deleted all his stuff from github.
+
+In march 2025, Google closed the API.
+
+=> this project is dead.
+
 It allows to display photos from Google Photos album in fullscreen for `MagicMirror`
 
 This module is an Extented plugin for `MMM-GoogleAssistant`<br>
